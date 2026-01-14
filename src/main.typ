@@ -318,7 +318,7 @@ This is the main function to setup a thesis
 
     #text(size: 11pt)[
       #if language == "en" [Examiner] else [Beurteiler]: #examiner \
-      #if language == "en" [Supervisor] else [Zweitbeurteiler]: #supervisor
+      #if language == "en" [Second examiner] else [Zweitbeurteiler]: #supervisor
     ]
 
     #v(1.5cm)

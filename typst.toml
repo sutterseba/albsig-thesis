@@ -1,13 +1,20 @@
 [package]
-name = "dmi-basilea-thesis"
+name = "albsig-thesis"
 version = "0.1.2"
 entrypoint = "src/main.typ"
-authors = ["Nico Bachmann <typst@nifalu.ch>"]
+authors = [ "Nico Bachmann <typst@nifalu.ch>" ]
 license = "MIT"
-description = "A thesis template for the dmi at the university of basel"
-keywords = ["thesis", "bachelor", "master", "unibas", "dmi", "computer science"]
-categories = ["thesis"]
-disciplines = ["computer-science"]
+description = "A thesis template for the Hochschule Albstadt-Sigmaringen"
+keywords = [
+  "thesis",
+  "bachelor",
+  "master",
+  "unibas",
+  "dmi",
+  "computer science"
+]
+categories = [ "thesis" ]
+disciplines = [ "computer-science" ]
 repository = "https://github.com/Nifalu/dmi-basilea-thesis"
 
 [template]
